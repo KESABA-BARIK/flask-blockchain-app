@@ -50,7 +50,16 @@ Make sure the backend is running (localhost:5000) because the frontend communica
 | POST   | `/transactions/new`    | Creates a new transaction        |
 | GET    | `/chain`               | Retrieves the full blockchain    |
 
+### ✨ Screenshots
+##### Here is a screenshot of the frontend interacting with the blockchain after mining a new block:
 
+<img src="assets/images/mine_block.png" width="600" />
+
+##### Here is a screenshot of the frontend interacting with the blockchain after pushing a new transaction:
+<img src="assets/images/new_transaction.png" width="600" />
+
+##### Here is a screenshot of the full chain:
+<img src="assets/images/full_chain.png" width="600" /><img src="assets/images/full_chain2.png" width="600" />
 
 ### 📚 Concepts Used
 Blockchain basics
